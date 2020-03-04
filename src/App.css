@@ -1,0 +1,9 @@
+.Connexion{
+  border: 1px red solid;
+  background-color: #fff;
+}
+.connexionBox{
+  margin-top: 400px;
+  position: absolute;
+  margin-left: 600px;
+}
